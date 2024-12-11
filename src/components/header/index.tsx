@@ -12,7 +12,7 @@ export default function Header() {
         </Link>
 
         <div className="flex items-baseline gap-4">
-          <Link href="#">
+          <Link href="/dashboard">
             <FiUser size={24} color="#020202" />
           </Link>
           <Link href="#">
